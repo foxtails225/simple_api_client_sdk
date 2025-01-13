@@ -1,0 +1,38 @@
+# Python Virtual Environment
+venv/
+myenv/
+
+# Bytecode files
+__pycache__/
+*.py[cod]
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and Debug Files
+*.log
+
+# Test and Coverage Reports
+.coverage
+.tox/
+.nox/
+*.cover
+coverage.xml
+htmlcov/
+pytest_cache/
+.mypy_cache/
+.pytest_cache/
+
+# Build and Distribution Files
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Environment and Secret Files
+.env
+*.bak
+.DS_Store
